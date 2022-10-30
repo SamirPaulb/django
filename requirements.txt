@@ -24,7 +24,7 @@ html5lib==0.95
 httplib2==0.8
 kombu==2.5.7
 logilab-astng==0.24.2
-logilab-common==0.59.0
+logilab-common==0.61.0
 oauth2==1.5.211
 ordereddict==1.1
 pycrypto==2.6
