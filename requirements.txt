@@ -1,7 +1,7 @@
 numpy==1.6.2
 Django==1.4.2
 django-tastypie==0.9.14
-urllib3==1.5
+urllib3==1.26.5
 pyes==0.19.1
 BeautifulSoup==3.2.1
 MySQL-python==1.2.3
