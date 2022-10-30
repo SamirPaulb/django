@@ -20,7 +20,7 @@ https://codeload.github.com/toastdriven/django-haystack/zip/master#egg=django-ha
 django-model-utils==1.2.0
 django-multiforloop==0.2.1
 django-social-auth==0.7.22
-html5lib==0.95
+html5lib==0.999999999
 httplib2==0.8
 kombu==2.5.7
 logilab-astng==0.24.2
